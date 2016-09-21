@@ -1,0 +1,17 @@
+
+/.vs
+
+/bin
+/obj
+
+/[lL]ibrary
+/[tT]emp
+
+*.sln
+*.csproj
+*.filter
+*.user
+
+*.exe
+*.pdb
+*.ilk
